@@ -11,7 +11,7 @@ export const DATA = {
     "Machine Learning Engineer & Data Scientist with Economics Background",
   summary:
     "Machine Learning Engineer and Data Scientist with a strong foundation in Economics. I specialize in developing AI solutions that bridge business challenges with cutting-edge technology. Currently pursuing my Master's in Data Science at USF, I've successfully deployed production-ready AI applications that have demonstrably improved operational efficiency and user experience. My unique combination of economic analysis and technical expertise allows me to deliver solutions that are both technically sophisticated and business-focused.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/portfolio/me.png",
   skills: [
     "Python",
     "PyTorch",
@@ -63,7 +63,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Machine Learning Engineer",
-      logoUrl: "/arslab.png",
+      logoUrl: "/portfolio/arslab.png",
       start: "January 2025",
       end: "Current",
       description:
@@ -75,7 +75,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Data Scientist",
-      logoUrl: "/numeraxial.jpeg",
+      logoUrl: "/portfolio/numeraxial.jpeg",
       start: "October 2024",
       end: "January 2025",
       description:
@@ -87,7 +87,7 @@ export const DATA = {
       href: "https://app.clubfeast.com/",
       location: "Remote",
       title: "Data Analyst for City Operations ",
-      logoUrl: "/cf.png",
+      logoUrl: "/portfolio/cf.png",
       start: "November 2023",
       end: "April 2024",
       description:
@@ -99,7 +99,7 @@ export const DATA = {
       badges: [],
       location: "Mexico City, Mexico",
       title: "Economic Analyst",
-      logoUrl: "/invex.png",
+      logoUrl: "/portfolio/invex.png",
       start: "January 2022",
       end: "December 2022",
       description:
@@ -111,7 +111,7 @@ export const DATA = {
       badges: [],
       location: "Wertheim, Germany",
       title: "Technical Specialist",
-      logoUrl: "/ke.jpeg",
+      logoUrl: "/portfolio/ke.jpeg",
       start: "August 2016",
       end: "June 2017",
       description:
@@ -123,7 +123,7 @@ export const DATA = {
       school: "University of San Francisco",
       href: "https://www.usfca.edu/arts-sciences/programs/graduate/data-science",
       degree: "Master's Degree in Data Science",
-      logoUrl: "/usf.png",
+      logoUrl: "/portfolio/usf.png",
       start: "2024",
       end: "2025",
     },
@@ -131,7 +131,7 @@ export const DATA = {
       school: "University of St.Gallen",
       href: "https://www.unisg.ch/en/",
       degree: "Exchange Semester, Concentration in Business ",
-      logoUrl: "/hsg.jpeg",
+      logoUrl: "/portfolio/hsg.jpeg",
       start: "2021",
       end: "2022",
     },
@@ -139,7 +139,7 @@ export const DATA = {
       school: "Instituto Tecnológico de México",
       href: "https://www.itam.mx/en",
       degree: "Bachelor's Degree in Economics",
-      logoUrl: "/itam.png",
+      logoUrl: "/portfolio/itam.png",
       start: "2018",
       end: "2022",
     },
