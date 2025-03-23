@@ -174,7 +174,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/chabot.png",
+      image: "/portfolio/chabot.png",
       video: "",
     },
     {
@@ -205,9 +205,8 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/fomc.png",
-      video:
-        "",
+      image: "/portfolio/fomc.png",
+      video: "",
     },
   ],
   hackathons: [
@@ -217,8 +216,7 @@ export const DATA = {
       location: "San Francisco, CA",
       description:
         "Built an innovative web application that leverages machine learning to generate custom lo-fi beats and AI-generated artwork. Created a seamless user experience that allows users to customize their musical preferences and receive matching visual aesthetics. Implemented the solution using Python for backend processing, React for the frontend interface, and Stable Diffusion for image generation.",
-      image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-western.png",
+      image: "/portfolio/lofi-hack.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [],
     },
