@@ -76,7 +76,7 @@ export const DATA = {
       location: "Remote",
       title: "Data Scientist",
       logoUrl: "/portfolio/numeraxial.jpeg",
-      start: "October 2024",
+      start: "August 2024",
       end: "January 2025",
       description:
         "Developed portfolio-balancing strategies using reinforcement learning to enhance financial decision-making. Optimized financial instrument selection for effective portfolio composition and collaborated with senior data scientists and portfolio managers to identify key investment insights and refine strategies.",
@@ -88,7 +88,7 @@ export const DATA = {
       location: "Remote",
       title: "Data Analyst for City Operations ",
       logoUrl: "/portfolio/cf.png",
-      start: "November 2023",
+      start: "January 2023",
       end: "April 2024",
       description:
         "Optimized delivery operations by leveraging geospatial analysis, time-series forecasting, and clustering algorithms in Python, achieving a 20% reduction in delivery time and contributing to $250,000+ in revenue. Automated data cleaning pipelines using Python and SQL, streamlining reporting processes and improving efficiency across 400+ events.",
@@ -101,7 +101,7 @@ export const DATA = {
       title: "Economic Analyst",
       logoUrl: "/portfolio/invex.png",
       start: "January 2022",
-      end: "December 2022",
+      end: "January 2023",
       description:
         "Developed ARIMA-based time series forecasting models to predict Mexican inflation rates and the peso's exchange rate against the U.S. dollar, enhancing financial strategy and risk assessment. Conducted in-depth statistical analysis of macroeconomic indicators to identify trends and investment opportunities. Produced 50+ economic reports with data-driven insights on financial markets. Led the Economic Analysis department as interim Chief Economist, overseeing research, forecasting, and strategic reporting.",
     },
